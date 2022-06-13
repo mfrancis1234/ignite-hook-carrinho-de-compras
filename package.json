@@ -53,5 +53,9 @@
     "extends": [
       "react-app"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/mfrancis1234/ignite-hook-carrinho-de-compras.git",
+  "author": "Francisco Esperança <mfrancis_1@hotmail.com>",
+  "license": "MIT"
 }
